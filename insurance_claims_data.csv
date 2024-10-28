@@ -1,0 +1,11 @@
+policy_id,customer_age,customer_gender,customer_income,vehicle_age,vehicle_type,accident_severity,claim_amount,claims_history
+101,45,Male,60000,5,Sedan,Low,1500,Yes
+102,34,Female,45000,3,SUV,Medium,2000,Yes
+103,29,Female,80000,2,Truck,High,5000,No
+104,54,Male,90000,10,Sedan,Low,1800,Yes
+105,36,Male,120000,1,SUV,Medium,3000,No
+106,48,Female,70000,7,SUV,High,4000,Yes
+107,60,Male,35000,12,Sedan,Low,1000,No
+108,32,Female,75000,4,Truck,Medium,2500,Yes
+109,41,Male,82000,6,Sedan,High,4500,Yes
+110,50,Female,50000,9,SUV,Low,1600,No
